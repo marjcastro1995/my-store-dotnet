@@ -1,0 +1,114 @@
+[
+  {
+    "id": 19238442,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "recruiterId": 1,
+    "divisionId": 10000,
+    "companyId": 1000,
+    "validated": true,
+    "created": "2023-04-18T14:48:00",
+    "completed": "2023-04-18T14:49:00",
+    "items": [
+      {
+        "id": 12123845,
+        "siteId": 1789,
+        "productId": 8,
+        "currency": "USD",
+        "paymentMethod": "Credit Card",
+        "retailCost": 1,
+        "accountDiscount": 0,
+        "couponDiscount": 0,
+        "netCost": 1,
+        "jobData": {
+          "jobId": 3,
+          "postingId": 2122
+        }
+      }
+    ]
+  },
+  {
+    "id": 19238443,
+    "status": "Abandoned",
+    "paymentMethod": "Undefined",
+    "recruiterId": 1,
+    "divisionId": 10000,
+    "companyId": 1000,
+    "validated": true,
+    "created": "2023-01-24T12:42:00",
+    "completed": null,
+    "items": [
+      {
+        "id": 12123846,
+        "siteId": 25393,
+        "productId": 2,
+        "currency": "USD",
+        "paymentMethod": "Credit Card",
+        "retailCost": 249,
+        "accountDiscount": 0,
+        "couponDiscount": 0,
+        "netCost": 249,
+        "jobData": {
+          "jobId": 3,
+          "postingId": 2123
+        }
+      }
+    ]
+  },
+  {
+    "id": 19238444,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "recruiterId": 1,
+    "divisionId": 10000,
+    "companyId": 1000,
+    "validated": true,
+    "created": "2023-04-18T14:48:00",
+    "completed": "2023-04-18T14:49:00",
+    "items": [
+      {
+        "id": 12123847,
+        "siteId": 1789,
+        "productId": 1,
+        "currency": "USD",
+        "paymentMethod": "Credit Card",
+        "retailCost": 349,
+        "accountDiscount": 0,
+        "couponDiscount": 0,
+        "netCost": 349,
+        "jobData": {
+          "jobId": 1,
+          "postingId": 2124
+        }
+      }
+    ]
+  },
+  {
+    "id": 19238445,
+    "status": "Paid",
+    "paymentMethod": "Credit Card",
+    "recruiterId": 1,
+    "divisionId": 10000,
+    "companyId": 1000,
+    "validated": true,
+    "created": "2024-01-26T09:44:00",
+    "completed": "2024-01-26T09:44:00",
+    "items": [
+      {
+        "id": 12123848,
+        "siteId": 1789,
+        "productId": 7,
+        "currency": "USD",
+        "paymentMethod": "Credit Card",
+        "retailCost": 1,
+        "accountDiscount": 0,
+        "couponDiscount": 0,
+        "netCost": 1,
+        "jobData": {
+          "jobId": 1,
+          "postingId": 2125
+        }
+      }
+    ]
+  }
+]
