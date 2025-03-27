@@ -7,10 +7,6 @@ A minimal web app using **ASP.NET Core** that displays products from `products.j
 - Serves static HTML.
 - Reads and displays **products** and **orders** from JSON files.
 
-## Requirements
-
-- [**.NET SDK 6.0+**](https://dotnet.microsoft.com/download)
-
 ## Setup & Run
 
 1️⃣ **Clone the repository:**
